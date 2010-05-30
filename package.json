@@ -1,0 +1,11 @@
+{
+	"name": "sandbox",
+	"author": "ben hockey",
+	"contributors": [],
+	"mappings":{
+		"pintura": "jar:http://github.com/kriszyp/pintura/zipball/master!/lib/",
+		"jsgi-node": "jar:http://github.com/kriszyp/jsgi-node/zipball/master!/lib/jsgi-node.js",
+		"commonjs-utils": "jar:http://github.com/kriszyp/commonjs-utils/zipball/master!/lib/",
+		"sass": "jar:http://github.com/visionmedia/sass.js/zipball/master!/lib/sass.js"
+	}
+}
