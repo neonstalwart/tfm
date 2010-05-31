@@ -1,5 +1,5 @@
 #tfm
-sometimes when someone asks a basic question you'll see 'RTFM' as a response.  it's a harsh response but for a laugh and to save myself writing documentation i figured i'd just label the code as `tfm` - all your questions about what the code is capable of will be answered by reading `tfm`.
+sometimes when someone asks a basic question you'll see 'RTFM' as a response.  it's a harsh response but for a laugh and to save myself writing documentation i figured i'd just label the code as `tfm` - all your questions about what the code is capable of doing will be answered by reading `tfm`.
 
 ##lib/
 the interesting code.  this is where you'll find the code that does stuff.
